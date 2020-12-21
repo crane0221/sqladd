@@ -1,0 +1,10 @@
+D:\C#\sql新增\sql新增\bin\Debug\sql新增.exe.config
+D:\C#\sql新增\sql新增\bin\Debug\sql新增.exe
+D:\C#\sql新增\sql新增\bin\Debug\sql新增.pdb
+D:\C#\sql新增\sql新增\obj\Debug\sql新增.csprojAssemblyReference.cache
+D:\C#\sql新增\sql新增\obj\Debug\sql新增.Form1.resources
+D:\C#\sql新增\sql新增\obj\Debug\sql新增.Properties.Resources.resources
+D:\C#\sql新增\sql新增\obj\Debug\sql新增.csproj.GenerateResource.cache
+D:\C#\sql新增\sql新增\obj\Debug\sql新增.csproj.CoreCompileInputs.cache
+D:\C#\sql新增\sql新增\obj\Debug\sql新增.exe
+D:\C#\sql新增\sql新增\obj\Debug\sql新增.pdb
